@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giri2103&label=Profile%20views&color=0e75b6&style=flat" alt="giri2103" /> </p>
 
-- 🌱 I’m currently learning **Electronics and Communication Engineering**
+- 🌱 I’m currently learning **React** <img src="https://cdn.cdnlogo.com/logos/r/85/react.svg" width="25" height = "25" alt="...">
 
 - ⚡ Fun fact **I am funny**
 
