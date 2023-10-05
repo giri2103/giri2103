@@ -27,5 +27,5 @@
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=giri2103" alt="GitHub Streak" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=giri2103&show_icons=true&locale=en" alt="GitHub Streak" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=giri2103&show_icons=true&locale=en" alt="GitHub Streak" /></p>
 
