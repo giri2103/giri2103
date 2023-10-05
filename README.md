@@ -25,4 +25,4 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=giri2103&show_icons=true&locale=en" alt="GitHub Streak" /></p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=giri2103" alt="...">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=giri2103)](https://git.io/streak-stats)
