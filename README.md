@@ -23,7 +23,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giri2103&show_icons=true&locale=en&layout=compact" alt="giri2103" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=giri2103&show_icons=true&locale=en" alt="GitHub Streak" /></p>
+<p><img  align="middle" src="https://github-readme-stats.vercel.app/api?username=giri2103&show_icons=true&locale=en" alt="GitHub Streak" /></p>
 
 
 
